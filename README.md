@@ -1,7 +1,6 @@
 # Proyecto_M2
 Proyecto realizado para practicar lo aprendido en el modulo dos. En el se utilizo una base de datos de listings de airbnb en Estambul y se analizaron los datos relevantes para poder ofrecer un listado de los mejores lugares para hospedarse.
 
-![logotipo-estambul-ilustracion-vector-empresa-turismo-turco_155957-1548](https://github.com/user-attachments/assets/a8f4f6e3-b37e-41e3-9c85-b06dabcc9cb1)
 
 [Ver informe de PowerBI] (https://app.powerbi.com/reportEmbed?reportId=4eec733f-e283-4365-a145-4ad3bc6b35c3&autoAuth=true&ctid=8aebddb6-3418-43a1-a255-b964186ecc64)
 
